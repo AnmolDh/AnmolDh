@@ -8,3 +8,5 @@ Hello!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolDh)
 
 <img align="center" src="./assets/aboutme.png?raw=true" width="200"/>
+
+- <i>Future Student of</i> : Information Technology 😍
