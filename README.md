@@ -6,7 +6,7 @@ Hello!
 [![Linktr.ee](https://img.shields.io/badge/Linktree-brightgreen?style=social&logo=Linktree&link=https://linktr.ee/Anmol_Dh)](https://linktr.ee/Anmol_Dh)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolDh)
 
-<img align="center" src="./assets/aboutme.png?raw=true" width="200"/>
+<img align="center" src="./assets/aboutme.png?raw=true" width="250"/>
 
 - <i>Future Student of</i> : Information Technology 😍
 - Always a Tech Enthusiast 🔭, Technology is Love 💕
