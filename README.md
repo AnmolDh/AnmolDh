@@ -2,10 +2,9 @@ Hello!
 
 <b>I'm</b> [Anmol Dhiman](https://github.com/anmoldh)
 
-![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmoldh&hide=contribs,issues,prs,stars&count_private=true&show_icons=true&theme=merko)
-
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram&link=https://t.me/Dont_Tag_Else_Gei)](https://t.me/Dont_Tag_Else_Gei)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolDh)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AnmolDh)
+[![Linktr.ee](https://img.shields.io/badge/linktree-brightgreen?style=social&link=https://linktr.ee/Anmol_Dh)](https://linktr.ee/Anmol_Dh)
 
 <img align="center" src="./assets/aboutme.png?raw=true" width="200"/>
 
@@ -15,3 +14,6 @@ Hello!
 - Age! Just <i>17</i> 🙂
 - Skills: Quick AF Learner 💨
 - My Hardwork in Github mostly Private for Now Atleast 😙
+
+
+![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmoldh&hide=contribs,issues,prs,stars&count_private=true&show_icons=true&theme=merko)
