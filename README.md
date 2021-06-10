@@ -9,7 +9,7 @@ Hello!
 <img align="center" src="./assets/aboutme.png?raw=true" width="200"/>
 
 - <i>Future Student of</i> : Information Technology 😍
-- 🔭 Always a Tech Enthusiast, Technology is Love 💕
+- Always a Tech Enthusiast  🔭, Technology is Love 💕
 - Pro Github Kanger 😈
 - Age! Just <i>17</i> 🙂
 - Skills: Quick AF Learner 💨
