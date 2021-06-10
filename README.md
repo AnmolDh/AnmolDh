@@ -1,1 +1,1 @@
-![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmoldh&count_private=true)
+![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmoldh&hide=contribs,prs,stars&count_private=true&show_icons=true)
