@@ -8,7 +8,7 @@ Hello!
 
 <img align="center" src="./assets/aboutme.png?raw=true" width="250"/>
 
-- <i>Future Student of</i> : Information Technology 😍
+- <i>Future Student of</i> : CSE ? 🥲
 - Always a Tech Enthusiast 🔭, Technology is Love 💕
 - Pro Github Kanger 😈
 - Age! Just <i>17</i> 🙂
