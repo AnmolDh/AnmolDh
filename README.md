@@ -1,3 +1,17 @@
+<h1 align="center">
+  <b>Anmol Dhiman</b>
+</h1>
+
+```C++
+class AnmolDh{
+    public:
+    string name = "Anmol Dhiman";
+    string username = "AnmolDh";
+    string location = "Chandigarh, India";
+    string linkedIn = "@Anmol_Dh";
+};
+```
+
 ## My Statistics
 
 <br/>
