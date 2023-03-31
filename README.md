@@ -23,11 +23,9 @@ class AnmolDh{
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## My Statistics
-
-<br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Anmoldh&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmoldh&theme=gruvbox&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anmoldh&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmoldh&theme=gruvbox&hide_border=true" />
 </p>
 <br>
 
