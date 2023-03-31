@@ -24,8 +24,8 @@ class AnmolDh{
 
 ## My Statistics
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anmoldh&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmoldh&theme=gruvbox&hide_border=true&count_private=true" />
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Anmoldh&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmoldh&theme=gruvbox&hide_border=true&count_private=true" />
 </p>
 <br>
 
