@@ -14,12 +14,12 @@ class AnmolDh{
 
 ## Languages
 ![Java](https://img.shields.io/badge/-JAVA-E34A86?style=flat-square&logo=coffeescript)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## My Statistics
