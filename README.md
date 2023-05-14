@@ -30,3 +30,7 @@ class AnmolDh{
 <br>
 
 <!-- ![Anmol's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anmoldh&custom_title=Anmol's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545) -->
+
+<p align="center" >
+  <img src="https://komarev.com/ghpvc/?username=AnmolDh&color=ff69b4&style=for-the-badge&label=sigh! profile views">
+</p>
