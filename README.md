@@ -12,15 +12,19 @@ class AnmolDh{
 };
 ```
 
-## Languages
-![Java](https://img.shields.io/badge/-JAVA-E34A86?style=flat-square&logo=coffeescript)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+## Stuff I Know
+<img align="left" alt="JAVA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="CPP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="MYSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="MONGODB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img align="left" alt="GIT" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+<img align="left" alt="LINUX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="VSCODE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<br><br>
 
 ## My Statistics
 | ![stats](https://github-readme-stats.vercel.app/api?username=Anmoldh&show_icons=true&theme=gruvbox&hide_border=true) | ![streaks](https://github-readme-streak-stats.herokuapp.com/?user=Anmoldh&theme=gruvbox&hide_border=true&count_private=true) |
