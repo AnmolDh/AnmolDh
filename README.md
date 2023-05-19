@@ -8,7 +8,7 @@ class AnmolDh{
     string name = "Anmol Dhiman";
     string username = "AnmolDh";
     string location = "Chandigarh, India";
-    string linkedIn = "../anmoldh";
+    string instagram = "../anmol_dh";
 };
 ```
 
