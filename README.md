@@ -40,5 +40,5 @@ class AnmolDh{
   <img src="https://komarev.com/ghpvc/?username=AnmolDh&color=ff69b4&style=for-the-badge&label=sigh! profile views">
 </p>
 
-<p align="center"><sub><em>"Symbol Of Peace? Hah! In The End, You’re Just A Tool For Violence, Made To Keep Us Down. And Violence Only Breeds More Violence.” – Tomura Shigaraki</em></sub></p>
+<p align="center"><sub><em>"A frog in a well does not know the great ocean.” – Japanese Proverb</em></sub></p>
 
