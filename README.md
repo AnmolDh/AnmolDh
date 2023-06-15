@@ -8,7 +8,7 @@ function AnmolDh() {
     name: "Anmol Dhiman",
     username: "AnmolDh",
     location: "Chandigarh, India",
-    instagram: "../anmol_dh"
+    linkedin: "../anmol_dh"
   };
 }
 ```
