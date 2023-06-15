@@ -2,14 +2,15 @@
   <b>Anmol Dhiman</b>
 </h1>
 
-```C++
-class AnmolDh{
-    public:
-    string name = "Anmol Dhiman";
-    string username = "AnmolDh";
-    string location = "Chandigarh, India";
-    string instagram = "../anmol_dh";
-};
+```javascript
+function AnmolDh() {
+  return {
+    name: "Anmol Dhiman",
+    username: "AnmolDh",
+    location: "Chandigarh, India",
+    instagram: "../anmol_dh"
+  };
+}
 ```
 
 <hr/>
