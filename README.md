@@ -15,7 +15,7 @@ function AnmolDh() {
 
 <hr/>
 
-## Classics & Tech
+<!-- ## Classics & Tech
 <img align="left" alt="JAVA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="CPP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -36,7 +36,7 @@ function AnmolDh() {
 <img align="left" alt="VSCODE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="VSCODE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
-<br/><br/><hr/>
+<br/><br/><hr/> -->
 
 ## My Statistics
 | ![stats](https://github-readme-stats.vercel.app/api?username=Anmoldh&show_icons=true&theme=gruvbox&hide_border=true) | ![streaks](https://github-readme-streak-stats.herokuapp.com/?user=Anmoldh&theme=gruvbox&hide_border=true&count_private=true) |
