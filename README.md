@@ -1,3 +1,5 @@
+<!---
+
 <h1 align="center">
   <b>Anmol Dhiman</b>
 </h1>
@@ -22,9 +24,7 @@ function AnmolDh() {
 
 <br>
 
-<!-- <p align="center" >
-  <img src="https://komarev.com/ghpvc/?username=AnmolDh&color=ff69b4&style=for-the-badge&label=sigh! profile views">
-</p> -->
 
 <p align="center"><sub><em>"A frog in a well does not know the great ocean.” – Japanese Proverb</em></sub></p>
 
+-->
