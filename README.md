@@ -5,12 +5,10 @@
 </h1>
 
 ```javascript
-function AnmolDh() {
+function user() {
   return {
     name: "Anmol Dhiman",
     username: "AnmolDh",
-    location: "Chandigarh, India",
-    linkedin: "../anmol_dh"
   };
 }
 ```
